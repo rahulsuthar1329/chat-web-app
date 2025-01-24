@@ -1,5 +1,7 @@
+import Chat from "./pages/Chat";
+
 function App() {
-  return <p className="bg-black text-white">Hello World</p>;
+  return <Chat />;
 }
 
 export default App;
